@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script&family=Roboto:wght@300&display=swap');
+
+
+/* TITLES: font-family: 'Anton', sans-serif;
+TEXT BASE: font-family: 'Roboto', sans-serif;
+TEXT SPECIAL: font-family: 'Dancing Script', cursive;
+*/
+
+h1, h2, h3						{font-family:  'Anton', sans-serif;}
+
+label, th, td					{font-family: 'Roboto', sans-serif;}
+
+
+
